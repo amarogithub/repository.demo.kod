@@ -42,9 +42,9 @@ I don't own this Live Stream. Use at your own risk.</description>
 
 <addon id="repository.demo.kod" name="Demo repository" version="0.0.3" provider-name="amarogithub">
 	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/amarogithub/amarogithub-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/amarogithub/amarogithub-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/amarogithub/amarogithub-kodi-demo-repo/master/repo/</datadir>
+		<info compressed="false">http://raw.github.com/amarogithub/repository.demo.kod/master/addons.xml</info>
+		<checksum>http://raw.github.com/amarogithub/repository.demo.kod/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/amarogithub/repository.demo.kod/tree/master/repo</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Demonstration Addon</summary>
