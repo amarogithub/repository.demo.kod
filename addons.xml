@@ -36,7 +36,7 @@ I don't own this Live Stream. Use at your own risk.</description>
     </extension>
 </addon>
 
-<addon id="plugin.video.simplekodi" name="Simple Kodi" version="1.0.0" provider-name="Simple Kodi">
+<addon id="plugin.video.simplek" name="Simple Kodi" version="1.0.0" provider-name="Simple Kodi">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
